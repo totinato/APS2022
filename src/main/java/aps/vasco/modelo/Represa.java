@@ -12,6 +12,7 @@ public class Represa {
 	public void setNome(String nome) {
 		this.nome = nome;
 	}
+	
 	public String getVolume_armazenado() {
 		return volume_armazenado;
 	}
